@@ -1,4 +1,4 @@
-<img src="assets\07.jpeg" alt="07" style="zoom: 50%;" />
+<img src="assets/07.jpeg" alt="07" width="600" height="400">
 
 <p align="center">学习资源汇总 持续更新</p>
 
