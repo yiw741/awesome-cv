@@ -1,4 +1,4 @@
-<img src="D:\水墨山水\水墨山水\07.jpeg" alt="07" style="zoom: 33%;" />
+<img src="assets\07.jpeg" alt="07" style="zoom: 33%;" />
 
 <p align="center">学习资源汇总 持续更新</p>
 
