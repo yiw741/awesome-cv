@@ -1,3 +1,6 @@
+<div align="center">
+    <h1>Awesome Learning with Computer Vision</h1>
+</div>
 <img src="assets/07.jpeg" alt="07">
 
 <p align="center">学习资源汇总 持续更新</p>
