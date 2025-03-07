@@ -21,7 +21,7 @@
 ## 语义分割 Semantic Segmentation
 
 
-1. [AR-seg]([https://github.com/refuel-ai/autolabel](https://github.com/yiw741/AR-seg)): Efficient Semantic Segmentation by Altering Resolutions for Compressed Videos 通过改变分辨率实现高效语义分割的压缩视频方法
+1. 【视频语义分割】[AR-seg](https://github.com/refuel-ai/autolabel](https://github.com/yiw741/AR-seg ): Efficient Semantic Segmentation by Altering Resolutions for Compressed Videos
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
