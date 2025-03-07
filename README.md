@@ -14,7 +14,6 @@
 - [目标检测 Object Detection](#目标检测-Object-Detection)
 - [路径跟踪 Path Tracking](#路径跟踪-Path-Tracking)
 - [微调 Fine-Tuning](#微调-Fine-Tuning)
-
 - [数据 Data](#数据-Data)
 
 ![](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
@@ -22,7 +21,7 @@
 ## 语义分割 Semantic Segmentation
 
 
-1. [AotoLabel](https://github.com/refuel-ai/autolabel): Label, clean and enrich text datasets with LLMs.
+1. 【视频语义分割】[AR-seg]([https://github.com/refuel-ai/autolabel](https://github.com/yiw741/AR-seg)): Efficient Semantic Segmentation by Altering Resolutions for Compressed Videos 通过改变分辨率实现高效语义分割的压缩视频方法
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
