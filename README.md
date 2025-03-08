@@ -21,7 +21,7 @@
 ## 语义分割 Semantic Segmentation
 
 
-1. 【视频语义分割】[AR-seg](https://github.com/refuel-ai/autolabel](https://github.com/yiw741/AR-seg ): Efficient Semantic Segmentation by Altering Resolutions for Compressed Videos
+1. 【视频语义分割】[AR-seg](https://github.com/yiw741/AR-seg ): Efficient Semantic Segmentation by Altering Resolutions for Compressed Videos
 2. 【医学图像分割】[EViT-Unet](https://github.com/yiw741/EVIT-UNET ): U-Net Like Efficient Vision Transformer for Medical Image Segmentation on Mobile and Edge Devices
 3. 【视频实例分割】[Mask2Former](https://github.com/yiw741/Mask2Former ): Mask2Former for Video Instance Segmentation
 4. 【医学图像分割】[U-Net](https://github.com/yiw741/U-Net/blob/main/README.md): Convolutional Networks for Biomedical Image Segmentation
