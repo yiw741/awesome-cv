@@ -67,7 +67,9 @@
 </div>
 
 ## 数据 Data
-
+1. [Semantic Segmentation  语义分割](https://paperswithcode.com/task/semantic-segmentation): Some example benchmarks for this task are Cityscapes, PASCAL VOC and ADE20K. Models are usually evaluated with the Mean Intersection-Over-Union (Mean IoU) and Pixel Accuracy metrics.
+2. [Object Detection  目标检测](https://paperswithcode.com/task/object-detection): Object detection is a computer vision task that involves identifying and precisely locating objects within images or videos using bounding boxes or segmentation masks.
+3. [Multi-Object Tracking  多目标跟踪](https://paperswithcode.com/task/multi-object-tracking): The goal is to identify and locate objects of interest in each frame and then associate them across frames to keep track of their movements over time. 
 
 
 
