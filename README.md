@@ -42,7 +42,7 @@
 ## 目标检测 Object Detection
 
 
-1. [AotoLabel](https://github.com/refuel-ai/autolabel): Label, clean and enrich text datasets with LLMs.
+
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -51,7 +51,7 @@
 ## 路径跟踪 Path Tracking
 
 
-1. [AotoLabel](https://github.com/refuel-ai/autolabel): Label, clean and enrich text datasets with LLMs.
+
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -59,7 +59,8 @@
 
 ## 微调 Fine-Tuning
 
-1. [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs.
+
+
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -68,7 +69,7 @@
 ## 数据 Data
 
 
-1. [AotoLabel](https://github.com/refuel-ai/autolabel): Label, clean and enrich text datasets with LLMs.
+
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
