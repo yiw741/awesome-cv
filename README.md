@@ -26,11 +26,12 @@
 3. 【视频实例分割】[Mask2Former](https://github.com/yiw741/Mask2Former ): Mask2Former for Video Instance Segmentation
 4. 【医学图像分割】[U-Net](https://github.com/yiw741/U-Net/blob/main/README.md): Convolutional Networks for Biomedical Image Segmentation
 5. 【图像分割】[SAM](https://github.com/yiw741/SAM ): Segment Anything Model  Segment Anything
-6. 【主干网络】[MobileNetV3](https://github.com/yiw741/MobileNetV3): MobileNetV3 is Google's efficient CNN for mobile devices, optimized via NAS and hardware-aware design, available in Large and Small versions.
-7. 【主干网络】[Transformer](https://github.com/yiw741/Transformer): A Transformer is a model architecture that eschews recurrence and instead relies entirely on an attention mechanism to draw global dependencies between input and output.
-8. 【主干网络】[Swin Transformer](https://github.com/yiw741/Swin-Transformer): Hierarchical Vision Transformer using Shifted Windows
-9. 【主干网络】[ResNet](https://github.com/yiw741/ResNet): Residual Network
-10. 【主干网络】[FCN](https://github.com/yiw741/FCN ): Fully Convolutional Network
+6. 【图像分割】[VIT]((https://github.com/yiw741/ViT ): An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+7. 【主干网络】[MobileNetV3](https://github.com/yiw741/MobileNetV3): MobileNetV3 is Google's efficient CNN for mobile devices, optimized via NAS and hardware-aware design, available in Large and Small versions.
+8. 【主干网络】[Transformer](https://github.com/yiw741/Transformer): A Transformer is a model architecture that eschews recurrence and instead relies entirely on an attention mechanism to draw global dependencies between input and output.
+9. 【主干网络】[Swin Transformer](https://github.com/yiw741/Swin-Transformer): Hierarchical Vision Transformer using Shifted Windows
+10. 【主干网络】[ResNet](https://github.com/yiw741/ResNet): Residual Network
+11. 【主干网络】[FCN](https://github.com/yiw741/FCN ): Fully Convolutional Network
    
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
